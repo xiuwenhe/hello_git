@@ -34,5 +34,5 @@ $ git merge --no-ff -m <comment> <branch>	#no fast-forward mode to merge
 $ git stash			#save current state
 $ git stash list	#list all stash
 $ git stash pop		#pop stash
-
+$ git branch -D <branch>	#force delete branch
 
