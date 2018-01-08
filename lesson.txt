@@ -31,3 +31,4 @@ $ git branch -d <branch>	#delete branch
 #####################
 $ git log --graph --pretty=oneline		#graphics mode to show log
 $ git merge --no-ff -m <comment> <branch>	#no fast-forward mode to merge
+
