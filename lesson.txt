@@ -14,10 +14,12 @@ $ git reflog
 $ git checkout -- <file>
 $ git reset HEAD <file>
 $ git rm <file>
+
 #####################
 $ git remove add origin <git@xxxxx.git>		#create remote respository
 $ git push -u origin master	#push to remove
 $ git clone <git@xxxxx>		#clone 
+
 #####################
 $ git checkout -b <branch>	#create and switch branch
 $ git branch <branch>		#create branch
@@ -25,3 +27,5 @@ $ git checkout <branch>		#switch branch
 $ git branch				#list and show current branch
 $ git merge <branch>		#merge branch to current
 $ git branch -d <branch>	#delete branch
+
+#####################
