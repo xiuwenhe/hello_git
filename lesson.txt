@@ -36,3 +36,6 @@ $ git stash list	#list all stash
 $ git stash pop		#pop stash
 $ git branch -D <branch>	#force delete branch
 
+####################
+$ git checkout -b dev origin/dev
+$ git 
