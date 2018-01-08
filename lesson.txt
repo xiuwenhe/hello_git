@@ -29,5 +29,5 @@ $ git merge <branch>		#merge branch to current
 $ git branch -d <branch>	#delete branch
 
 #####################
-$ git 
-
+$ git log --graph --pretty=oneline
+$ git merge --no-ff -m <comment> <branch>
