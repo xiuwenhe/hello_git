@@ -25,3 +25,5 @@ $ git checkout <branch>		#switch branch
 $ git branch				#list and show current branch
 $ git merge <branch>		#merge branch to current
 $ git branch -d <branch>	#delete branch
+#####################
+$ git 
